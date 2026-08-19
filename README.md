@@ -28,7 +28,7 @@ struct AboutMe {
     let hobby = "voleibol"
 }
 <div align="center">
-<div align="center"> ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg) </div>
+
 # 🎀 My GitHub 🎀
 
 
