@@ -1,24 +1,26 @@
 # TEUS
 
-# 🎀 Hello Kitty 💗
+# 🎀 Hello Kitty World! 🎀
 
 <div align="center">
 
-```text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎀 HELLO KITTY 🎀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⣰⠋⠀⠀⠀⠀⠀⠙⣆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢰⠁⠀●⠀⠀⠀⠀●⠀⠘⡆⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀︶⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⢦⣀⣀⣀⡴⠞⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎀🎀🎀🎀⠀⠀⠀⠀⠀⠀⠀⠀
-<div align="center">
-🎀 Thank you for visiting! 🎀
-₍^. .^₎⟆ 💗
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200">
 
-Made with love, bows & lots of pink 🎀
+# 💗 Welcome to my GitHub! 💗
 
-</div> ```
+### 🌸 Coding with love, css and ariana 🎀
+
+</div>
+
+---
+
+## 🎀 Sobre mim
+
+```swift
+struct AboutMe {
+    let name = "Mateus"
+    let pronouns = "he/his"
+    let favoriteCharacter = "Hello Kitty 🎀"
+    let favoriteColor = "Pink 💗"
+    let hobby = "voleibol"
+}
