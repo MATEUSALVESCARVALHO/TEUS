@@ -15,3 +15,10 @@
 ⠀⠀⠀⠀⠀⠀⠀⠘⣆⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⢦⣀⣀⣀⡴⠞⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🎀🎀🎀🎀⠀⠀⠀⠀⠀⠀⠀⠀
+<div align="center">
+🎀 Thank you for visiting! 🎀
+₍^. .^₎⟆ 💗
+
+Made with love, bows & lots of pink 🎀
+
+</div> ```
