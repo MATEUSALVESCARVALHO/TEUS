@@ -5,6 +5,7 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200">
+--- ## 🐍 Minhas contribuições <div align="center"> ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-sn
 
 # 💗 Welcome to my GitHub! 💗
 
