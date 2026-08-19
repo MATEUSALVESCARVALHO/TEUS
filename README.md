@@ -34,8 +34,7 @@
 struct AboutMe {
     let name = "Mateus"
     let pronouns = "he/his"
-    let favoriteCharacter = "Hello Kitty 🎀"
-    let favoriteColor = "Pink 💗"
+    let favoriteCharacter = "Ariana G.🎀"
     let hobby = "voleibol"
 }
 <div align="center">
